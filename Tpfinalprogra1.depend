@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655937650 source:f:\documentos\programacion\tpfinalprogra1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+

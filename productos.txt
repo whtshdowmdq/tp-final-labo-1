@@ -1,0 +1,405 @@
+1
+pan comun
+300.00
+20
+1
+2
+Pan de Hamburguesa
+220.00
+15
+1
+3
+Pan de Viena
+170.00
+20
+1
+4
+Pan de Salvado
+250.00
+25
+1
+5
+Agua Mineral 1.5lt
+80.00
+40
+2
+6
+Agua Saborizada 1.5lt
+150.00
+20
+2
+7
+Soda 1.5lt
+100.00
+14
+2
+8
+Coca Cola 1.5lt
+200.00
+60
+2
+9
+Fanta 1.5lt
+200.00
+41
+2
+10
+Sprite
+200.00
+41
+2
+11
+Pepsi 1.5lt
+200.00
+49
+2
+12
+7 UP 1.5lt
+200.00
+Stock: 54
+2
+13
+Gatorade 600ml
+170.00
+32
+2
+14
+Powerade 600ml
+130.00
+20
+2
+15
+Speed 500ml
+195.00
+47
+2
+16
+Red Bull 500ml
+191.00
+23
+2
+17
+Cerveza Stella Artois 1lt
+370.00
+40
+3
+18
+Quilmes 1lt
+320.00
+Stock: 35
+3
+19
+Corona 1lt
+380.00
+36
+3
+20
+Vino Tinto Dada 1lt
+600.00
+Stock: 18
+3
+21
+Vino Tinto Malbec 1lt
+Precio: 300.00
+Stock: 21
+3
+22
+Vino Blanco Dulce Trapiche Alari 1lt
+495.00
+17
+3
+23
+Champagne Extra Brut Novecento 1lt
+480.00
+Stock: 15
+3
+24
+Gancia 1lt
+560.00
+26
+3
+25
+Leche Entera Serenisima sachet
+180.00
+Stock: 38
+4
+26
+Leche Descremada Serenisima sachet
+170.00
+Stock: 40
+4
+27
+Leche Chocolatada 1lt
+215.00
+47
+4
+28
+Yogurt Milkaut 1lt
+155.00
+Stock: 21
+4
+29
+Yogurt Entero 150 gr
+112.00
+21
+4
+30
+Yogurt Descremado Con Fruta 150g
+124.00
+25
+4
+31
+Leche en Polvo 800gr
+215.00
+27
+4
+32
+Leche Larga Vida 1lt
+137.00
+Stock: 24
+4
+33
+Asado Tira Kg
+1100.00
+Stock: 30
+5
+34
+Peceto Kg
+1400.00
+Stock: 25
+5
+35
+Bola de Lomo Kg
+1150.00
+Stock: 18
+5
+36
+Roast Beef Kg
+1200.00
+Stock: 30
+5
+37
+Pollo Kg
+600.00
+Stock: 20
+5
+38
+Papa Negra Kg
+80.00
+Stock: 30
+6
+39
+Papa Blanca Kg
+110.00
+Stock: 25
+6
+40
+Lechuga Kg
+300.00
+Stock: 17
+6
+41
+Tomate Redondo Kg
+150.00
+31
+6
+42
+Cebolla Kg
+100.00
+23
+6
+43
+Zanahoria Kg
+180.00
+17
+6
+44
+Zapallito Redondo Kg
+130.00
+16
+6
+45
+Morrones Kg
+450.00
+20
+6
+46
+Manzana Deliciosa Kg
+300.00
+20
+6
+47
+Banana Kg
+220.00
+16
+6
+48
+Naranja Jugo Kg
+80.00
+Stock: 25
+6
+49
+Mandarina de Temporada Kg
+100.00
+Stock: 20
+6
+50
+Rucula Pqt
+70.00
+Stock: 24
+6
+51
+Bolsa De Residuos Chica
+ Precio: 300.00
+Stock: 25
+7
+52
+Bolsa de Residuos Grande
+380.00
+25
+7
+53
+Trapo de piso
+110.00
+12
+7
+54
+Papel Higienico
+180.00
+30
+7
+55
+Papel De Cocina
+130.00
+47
+7
+56
+Escoba
+450.00
+12
+7
+57
+Lavandina
+220.00
+11
+7
+58
+Desodorante Hombre
+195.00
+23
+7
+59
+Desodorante Mujer
+195.00
+24
+7
+60
+Esponja
+45.00
+14
+7
+61
+Shampoo
+425.00
+Stock: 24
+7
+62
+Crema de Enjuague
+00.00
+31
+7
+63
+Aceite Girasol 1lt
+230.00
+31
+8
+64
+Fideos Don Vicente
+230.00
+30
+8
+65
+Fideo Mostachol
+90.00
+30
+8
+66
+Fideo para Sopa
+105.00
+17
+8
+67
+Arroz Gallo
+110.00
+30
+8
+68
+Atun
+180.00
+12
+8
+69
+Mermeladas
+220.00
+30
+8
+70
+Te Saquitos
+90.00
+45
+8
+71
+Cafe
+600.00
+30
+8
+72
+Yerba
+250.00
+15
+8
+73
+Dulce de Leche
+179.00
+6
+8
+74
+Galletitas Dulces
+155.00
+30
+8
+75
+Galletas de Agua
+120.00
+30
+8
+76
+Galletas de Arroz
+135.00
+20
+8
+77
+Jamon Cocido 100gr
+340.00
+20
+8
+78
+Jamon Natural 100gr
+400.00
+15
+8
+79
+Queso en Barra 100gr
+260.00
+17
+8
+80
+Salame Milan 100gr
+170.00
+15
+8
+81
+Mortadela 100gr
+140.00
+11
+8
